@@ -14,7 +14,7 @@ keras-resnet==0.1.0
 kiwisolver==1.2.0
 Markdown==3.2.2
 matplotlib==3.2.1
-numpy==1.18.4
+numpy==1.22.0
 opencv-python==4.2.0.34
 pandas==0.20.0
 Pillow==7.1.2
